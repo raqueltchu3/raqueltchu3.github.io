@@ -1,0 +1,339 @@
+
+.janela {
+  background: black;
+  background-size: cover;
+  position: fixed;
+  width: 1167px;
+  height: 979px;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  margin: auto;
+  overflow: hidden;
+}
+
+.rolagem {
+  position: relative;
+  width: 1px;
+  height: 20000px;
+}
+
+.mascara {
+  background: url("Mascara.png");
+  background-size: cover;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 1000;
+}
+
+.juntas {
+  background: url("Juntas.png");
+  background-size: cover;
+  position: absolute;
+  width: 1167px;
+  height: 6164px;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 999;
+}
+
+
+.juntas2 {
+  background: url("Juntas2.png");
+  background-size: cover;
+  position: absolute;
+  width: 1167px;
+  height: 6164px;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: -1000;
+}
+
+.motivo1 {
+  background: url("Motivos/1.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+  position: absolute;
+  width: 831px;
+  height: 100px;
+  top: 800px;
+  left: 0;
+  z-index: 1000;
+}
+
+.motivo2 {
+  background: url("Motivos/2.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+  position: absolute;
+  width: 831px;
+  height: 100px;
+  top: 800px;
+  left: 0;
+  z-index: 1000;
+}
+
+.motivo3 {
+  background: url("Motivos/3.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+  position: absolute;
+  width: 831px;
+  height: 100px;
+  top: 700px;
+  left: 0;
+  z-index: 10001;
+}
+
+.motivo4 {
+  background: url("Motivos/4.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+  position: absolute;
+  width: 831px;
+  height: 100px;
+  top: 800px;
+  left: 0;
+  z-index: 1000;
+}
+
+.motivo5 {
+  background: url("Motivos/5.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+  position: absolute;
+  width: 831px;
+  height: 100px;
+  top: 800px;
+  left: 0;
+  z-index: 1000;
+}
+
+.motivo6 {
+  background: url("Motivos/6.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+  position: absolute;
+  width: 831px;
+  height: 100px;
+  top: 800px;
+  left: 0;
+  z-index: 1000;
+}
+
+.camada12 {
+  background: url("Png_Cena01/2.png");
+  background-size: cover;
+  position: absolute;
+  width: 1167px;
+  height: 979px;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 500;
+}
+
+.camada13 {
+  background: url("Png_Cena01/3.png");
+  background-size: cover;
+  position: absolute;
+  width: 1167px;
+  height: 979px;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 499;
+}
+
+.camada14 {
+  background: url("Png_Cena01/4.png");
+  background-size: cover;
+  position: absolute;
+  width: 1167px;
+  height: 979px;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 495;
+}
+
+.camada22 {
+  background: url("Png_Cena02/21.png");
+  background-size: cover;
+  position: absolute;
+  width: 1100px;
+  height: 979px;
+  top: -100px;
+  right: 0;
+  z-index: 500;
+
+}
+
+.camada23 {
+  background: url("Png_Cena02/32.png");
+  background-size: cover;
+  position: absolute;
+  width: 1167px;
+  height: 979px;
+  top: -200px;
+  left: 0;
+  z-index: 500;
+}
+
+
+.camada32 {
+  background: url("Png_Cena03/21.png");
+  background-size: cover;
+  position: absolute;
+  width: 1167px;
+  height: 979px;
+  top: 3500px;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 300;
+}
+
+.camada33 {
+  background: url("Png_Cena03/32.png");
+  background-size: cover;
+  position: absolute;
+  width: 1167px;
+  height: 979px;
+  top: 3500px;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 302;
+}
+
+.camada34 {
+  background: url("Png_Cena03/41.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  position: absolute;
+  width: 1167px;
+  height: 980px;
+  top: 3500px;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 300;
+}
+
+.camada35 {
+  background: url("Png_Cena03/5.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  position: absolute;
+  width: 1167px;
+  height: 980px;
+  top: 3500px;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 301;
+}
+
+.camada41 {
+  background: url("Png_Cena04/1.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  position: absolute;
+  width: 1167px;
+  height: 1041px;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 499;
+}
+
+
+.camada42 {
+  background: url("Png_Cena04/2.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  position: absolute;
+  width: 1167px;
+  height: 1041px;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 350;
+}
+
+.camada43 {
+  background: url("Png_Cena04/3.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  position: absolute;
+  width: 1167px;
+  height: 1041px;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 349;
+}
+
+.camada44 {
+  background: url("Png_Cena04/4.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  position: absolute;
+  width: 1167px;
+  height: 1041px;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 348;
+}
+
+.camada45 {
+  background: url("Png_Cena04/5.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  position: absolute;
+  width: 1167px;
+  height: 1041px;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 348;
+}
+
+.camada46 {
+  background: url("Png_Cena04/6.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  position: absolute;
+  width: 1167px;
+  height: 1041px;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 348;
+}
+
+.camada47 {
+  background: url("Png_Cena04/7.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  position: absolute;
+  width: 1167px;
+  height: 1041px;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 348;
+}
