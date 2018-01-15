@@ -58,7 +58,7 @@
 }
 
 .motivo1 {
-  background: url("Motivos/1.png");
+  background: url("motivo1.png");
   background-size: contain;
   background-repeat: no-repeat;
   position: absolute;
@@ -70,7 +70,7 @@
 }
 
 .motivo2 {
-  background: url("Motivos/2.png");
+  background: url("motivo2.png");
   background-size: contain;
   background-repeat: no-repeat;
   position: absolute;
@@ -82,7 +82,7 @@
 }
 
 .motivo3 {
-  background: url("Motivos/3.png");
+  background: url("motivo3.png");
   background-size: contain;
   background-repeat: no-repeat;
   position: absolute;
@@ -94,7 +94,7 @@
 }
 
 .motivo4 {
-  background: url("Motivos/4.png");
+  background: url("motivo4.png");
   background-size: contain;
   background-repeat: no-repeat;
   position: absolute;
@@ -106,7 +106,7 @@
 }
 
 .motivo5 {
-  background: url("Motivos/5.png");
+  background: url("motivo5.png");
   background-size: contain;
   background-repeat: no-repeat;
   position: absolute;
@@ -118,7 +118,7 @@
 }
 
 .motivo6 {
-  background: url("Motivos/6.png");
+  background: url("motivo6.png");
   background-size: contain;
   background-repeat: no-repeat;
   position: absolute;
@@ -130,7 +130,7 @@
 }
 
 .camada12 {
-  background: url("Png_Cena01/2.png");
+  background: url("cena11.png");
   background-size: cover;
   position: absolute;
   width: 1167px;
@@ -143,7 +143,7 @@
 }
 
 .camada13 {
-  background: url("Png_Cena01/3.png");
+  background: url("cena12.png");
   background-size: cover;
   position: absolute;
   width: 1167px;
@@ -156,7 +156,7 @@
 }
 
 .camada14 {
-  background: url("Png_Cena01/4.png");
+  background: url("cena13.png");
   background-size: cover;
   position: absolute;
   width: 1167px;
@@ -169,7 +169,7 @@
 }
 
 .camada22 {
-  background: url("Png_Cena02/21.png");
+  background: url("cena21.png");
   background-size: cover;
   position: absolute;
   width: 1100px;
@@ -181,7 +181,7 @@
 }
 
 .camada23 {
-  background: url("Png_Cena02/32.png");
+  background: url("cena22.png");
   background-size: cover;
   position: absolute;
   width: 1167px;
@@ -193,7 +193,7 @@
 
 
 .camada32 {
-  background: url("Png_Cena03/21.png");
+  background: url("cena31.png");
   background-size: cover;
   position: absolute;
   width: 1167px;
@@ -206,7 +206,7 @@
 }
 
 .camada33 {
-  background: url("Png_Cena03/32.png");
+  background: url("cena32.png");
   background-size: cover;
   position: absolute;
   width: 1167px;
@@ -219,7 +219,7 @@
 }
 
 .camada34 {
-  background: url("Png_Cena03/41.png");
+  background: url("cena33.png");
   background-size: cover;
   background-repeat: no-repeat;
   position: absolute;
@@ -233,7 +233,7 @@
 }
 
 .camada35 {
-  background: url("Png_Cena03/5.png");
+  background: url("cena34.png");
   background-size: cover;
   background-repeat: no-repeat;
   position: absolute;
@@ -247,7 +247,7 @@
 }
 
 .camada41 {
-  background: url("Png_Cena04/1.png");
+  background: url("cena41.png");
   background-size: cover;
   background-repeat: no-repeat;
   position: absolute;
@@ -261,7 +261,7 @@
 
 
 .camada42 {
-  background: url("Png_Cena04/2.png");
+  background: url("cena42.png");
   background-size: cover;
   background-repeat: no-repeat;
   position: absolute;
@@ -274,7 +274,7 @@
 }
 
 .camada43 {
-  background: url("Png_Cena04/3.png");
+  background: url("cena43.png");
   background-size: cover;
   background-repeat: no-repeat;
   position: absolute;
@@ -287,7 +287,7 @@
 }
 
 .camada44 {
-  background: url("Png_Cena04/4.png");
+  background: url("cena44.png");
   background-size: cover;
   background-repeat: no-repeat;
   position: absolute;
@@ -300,7 +300,7 @@
 }
 
 .camada45 {
-  background: url("Png_Cena04/5.png");
+  background: url("cena45.png");
   background-size: cover;
   background-repeat: no-repeat;
   position: absolute;
@@ -313,7 +313,7 @@
 }
 
 .camada46 {
-  background: url("Png_Cena04/6.png");
+  background: url("cena46.png");
   background-size: cover;
   background-repeat: no-repeat;
   position: absolute;
@@ -326,7 +326,7 @@
 }
 
 .camada47 {
-  background: url("Png_Cena04/7.png");
+  background: url("cena47.png");
   background-size: cover;
   background-repeat: no-repeat;
   position: absolute;
